@@ -1,3 +1,5 @@
+# this function has the mapping relevant to S3 decoding
+
 def s3decode(processing_filename) : 
     
     encodings = {
